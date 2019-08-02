@@ -1,0 +1,12 @@
+.logo-text{
+    background: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.logo-black{
+    background: yellowgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}

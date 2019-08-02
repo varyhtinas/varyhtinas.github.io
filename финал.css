@@ -1,0 +1,11 @@
+.logo-block{
+    background: green;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+.menu-block{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
